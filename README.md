@@ -1,7 +1,5 @@
 # TelegramG-CommunityLayer-Bot
 
-# TelegramGod-CommunityLayer
-
 ## Overview
 
 TelegramGod-CommunityLayer is a powerful software solution designed to enhance community activity and engagement using specialized AI language models. By leveraging advanced natural language processing (NLP) techniques, this project enables users to manage their Telegram communities more effectively and foster meaningful interactions.
