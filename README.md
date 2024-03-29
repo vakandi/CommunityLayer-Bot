@@ -1,5 +1,5 @@
-# TweetSyncAI / TelegramSyncAI -CommunityLayer-Bot
+## TweetSyncAI / TelegramSyncAI -CommunityLayer-Bot
 
-## Update Retrieving Repo
+#### Update Retrieving Repo
 
-## [Visit TweetSyncAI.com](https://tweetsync-ai.com)
+#### [Visit TweetSyncAI.com](https://tweetsync-ai.com)
